@@ -4,6 +4,12 @@ Temporal Image Caption Retrieval Competition
 
 Retrieve a caption for a picture from a historical newspaper.
 
+# UPDATES
+
+- March 06, 2023: The baseline has been added. Plase run `baseline.sh` to check it out.
+- March 06, 2023: The `test-A` dataset has been published. This is a preliminary test dataset. The final evaluation will be done
+on a much bigger dataset published on May 17th. The expected result `expected.tsv` for the `test-A` will not be published.
+
 # Task Description
 
 ## Introduction
@@ -80,6 +86,11 @@ Solutions should be submitted to gonito platform.
 
 In order to be included in the final ranking the participants are expected to provide the report that describes their solution. The reports should conform to the requirements specified in the report.tex template and should not exceed 4 pages.
 
+
+# Baseline
+
+Please run `baseline.sh` from the challenge directory.
+
 # Rules
 
 1. Participants are allowed to use any publicly available pre-trained model.
@@ -115,9 +126,10 @@ The challenge is organized by the Centre for Artificial Intelligence ( https://c
 - Jakub Pokrywka, Adam Mickiewicz University, Poland
 - Piotr Wierzchoń, Adam Mickiewicz University, Poland
 - Krzysztof Jassem, Adam Mickiewicz University, Poland
+- Kornel Weryszko, Adam Mickiewicz University, Poland
 
 
-We set up a “CNLPS” Discord server to discuss the CAICCAIC challenge. Please join it to ask any task-related questions: https://discord.gg/VvjHhh7rbF
+We set up a “CNLPS” Discord server to discuss the the challenge. Please join it to ask any task-related questions: https://discord.gg/VvjHhh7rbF
 
 
 # Citations

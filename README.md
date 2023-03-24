@@ -102,6 +102,9 @@ Please run `baseline.sh` from the challenge directory.
 7. The best scoring solution on the leaderboard on test data is the winning one.
 8. Teams may consist of one or more people. There is no restriction on the size of the team. Only one team representative should submit the teams' solution to the platform.
 9. If the solution submitted by two different teams is found to be the same, the one who submitted earlier would be ranked higher.
+10. To be included in the final ranking, a team should provide a report describing their solution.
+11. The report should conform to the requirements specified in the exemplary document provided at <https://github.com/kubapok/cnlps-caiccaic/blob/master/cnlps-report-example.pdf>.
+
 
 # Special session ad FedCSIS 2023
 

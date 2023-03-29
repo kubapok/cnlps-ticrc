@@ -106,7 +106,7 @@ Please run `baseline.sh` from the challenge directory.
 11. The report should conform to the requirements specified in the exemplary document provided at <https://github.com/kubapok/cnlps-caiccaic/blob/master/cnlps-report-example.pdf>.
 
 
-# Special session ad FedCSIS 2023
+# Special session at FedCSIS 2023
 
 The authors of selected submissions will be invited to prepare the extended versions of their reports for publication in the conference proceedings and presentation at FedCSIS 2023. The selection will be made by Organizing Committee on the basis of final evaluation results, the quality of the submitted reports, and the originality of the presented methods.
 

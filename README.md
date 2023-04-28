@@ -31,7 +31,7 @@ The objective is, given a picture from a newspaper and the newspaper's publicati
 
 Image:
 
-[<img src="https://git.wmi.amu.edu.pl/kubapok/cnlps-ticrc/raw/branch/master/sample-picture.png">](https://git.wmi.amu.edu.pl/kubapok/cnlps-ticrc)
+[<img src="https://raw.githubusercontent.com/kubapok/cnlps-ticrc/master/sample-picture.png">](https://github.com/kubapok/cnlps-ticrc)
 
 
 Date timestamp: `19280111`
@@ -55,7 +55,7 @@ Other Challenging America challenges, which may be useful:
 
 The dataset is created in the following manner. Pictures and captions are extracted from the newspapers by a human annotator (max. one picture per site).
 
-[<img src="https://git.wmi.amu.edu.pl/kubapok/cnlps-ticrc/raw/branch/master/sample-picture-w-caption.png">](https://git.wmi.amu.edu.pl/kubapok/cnlps-ticrc)
+[<img src="https://raw.githubusercontent.com/kubapok/cnlps-ticrc/master/sample-picture-w-caption.png">](https://github.com/kubapok/cnlps-ticrc)
 
 
 Then, the picture and caption are separated, so the picture does not contain a caption. The caption is typed by a human annotator and kept as golden truth. Newspaper date is taken from newspaper metadata.
@@ -109,7 +109,7 @@ Please run `baseline.sh` from the challenge directory.
 
 # Special session at FedCSIS 2023
 
-The authors of selected submissions will be invited to prepare the extended versions of their reports for publication in the conference proceedings and presentation at FedCSIS 2023. The selection will be made by Organizing Committee on the basis of final evaluation results, the quality of the submitted reports, and the originality of the presented methods.
+The authors of selected submissions will be invited to prepare the extended versions of their reports for publication in the conference proceedings and presentation at FedCSIS 2023. The selection will be made by Organizing Committee on the basis of final evaluation results, the quality of the submitted reports, and the originality of the presented methods. The papers will be indexed by the IEEE Digital Library and Web of Science (70 points MEiN- info for polish scientists).
 
 # Dates
 

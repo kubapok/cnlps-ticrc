@@ -118,8 +118,8 @@ The authors of selected submissions will be invited to prepare the extended vers
 - May 17, 2023: Test data available
 - May 31, 2023: Deadline for submitting the results
 - June 04, 2023: Announcement of the final results, sending invitations for submitting papers
-- July 04, 2023: Deadline for submitting invited papers
-- July 11, 2023: Author notification
+- July 11, 2023: Deadline for submitting invited papers
+- July 16, 2023: Author notification
 - July 31, 2023: Final paper submission, registration
 - Sept 20, 2023: Challenges in Natural Language Processing Symposium
 

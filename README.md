@@ -6,6 +6,7 @@ Retrieve a caption for a picture from a historical newspaper.
 
 # UPDATES
 
+- May 17, 2023: `test-B` directory has been added. Please pull the mother repository. The test-B dataset will be used to determine the winners of the competition.
 - April 16, 2023: `train2` directory has been added. Please pull the mother repository.
 - March 06, 2023: The baseline has been added. Plase run `baseline.sh` to check it out.
 - March 06, 2023: The `test-A` dataset has been published. This is a preliminary test dataset. The final evaluation will be done

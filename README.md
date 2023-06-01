@@ -118,7 +118,7 @@ The authors of selected submissions will be invited to prepare the extended vers
 - Feb 20, 2023: First part of training data available
 - Apr 10, 2023: Second part of training data available
 - May 17, 2023: Test data available
-- May 31, 2023: Deadline for submitting the solutions
+- ~~May 31, 2023~~ June 14, 2023: Deadline for submitting the solutions
 - June 04, 2023: Announcement of the final results, sending invitations for submitting papers
 - July 11, 2023: Deadline for submitting invited papers
 - July 16, 2023: Author notification

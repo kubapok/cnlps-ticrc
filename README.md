@@ -13,6 +13,21 @@ Retrieve a caption for a picture from a historical newspaper.
 - March 06, 2023: The `test-A` dataset has been published. This is a preliminary test dataset. The final evaluation will be done
 on a much bigger dataset published on May 17th. The expected result `expected.tsv` for the `test-A` will not be published.
 
+# Results
+
+
+
+Table below presents the official final ranking. We would like to express our gratitude to all the participants for their submissions. The author of the best solution will present it during the CNLPS session at the FEDCSIS 2023 conference. A summary of the competition will also be provided.
+
+| place | submitter                     | test-A MAP | test-B MAP | number of submissions |
+|-------|-------------------------------|------------|------------|-----------------------|
+| 1     | Kaszuba                       | 0.605919   | 0.344423   | 6                     |
+| 2     | s478846                       | 0.552940   | 0.338496   | 11                    |
+| 3     | Serba                         | 0.350573   | 0.228315   | 1                     |
+| 4     | official competition baseline | 0.269739   | 0.171050   | 10                    |
+| 5     | Szyszko                       | 0.086957   | 0.062069   | 1                     |
+| 6     | s478855                       | 0.051358   | 0.013749   | 3                     |
+
 # Task Description
 
 ## Introduction

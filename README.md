@@ -19,7 +19,7 @@ on a much bigger dataset published on May 17th. The expected result `expected.ts
 
 Table below presents the official final ranking. We would like to express our gratitude to all the participants for their submissions. The author of the best solution will present it during the CNLPS session at the FEDCSIS 2023 conference. A summary of the competition will also be provided.
 
-| place | submitter                     | test-A MAP | test-B MAP | number of submissions |
+| place | submitter                     | test-A MRR | test-B MRR | number of submissions |
 |-------|-------------------------------|------------|------------|-----------------------|
 | 1     | Kaszuba                       | 0.605919   | 0.344423   | 6                     |
 | 2     | s478846                       | 0.552940   | 0.338496   | 11                    |
